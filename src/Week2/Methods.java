@@ -4,6 +4,18 @@ public class Methods {
     public static void main(String[] args) {
         findNumber();
 
+//        Customer customer= new Customer("Beyza","Yildirim",22);
+//        Customer customer1 = new Customer("Beyza","Yildirim",22);
+//        if(customer.name.equals(customer1.name)){
+//            girer
+//        }
+//        if(customer.name==customer1.name){
+//            girmez çünkü Java'da String referans tip
+//        }
+
+
+
+
     }
     public  static void findNumber(){
         int[] numbers = new int[]{0, 1, 2, 3, 4, 5, 6, 7};
